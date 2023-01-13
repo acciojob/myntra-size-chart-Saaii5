@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table,th,td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px 5px;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: brown;
+}
+.waist{
+    background-color: rgb(228, 136, 136);
+}
+.chest{
+    background-color: bisque;
+}
+.sleeve{
+    background-color: aqua;
+}
